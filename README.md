@@ -1,7 +1,8 @@
 # Welcome 
 
 ````
-God bless you, my siste or brother ✌️ This is my first calculator with javascript, I hope you like it 😄
+God bless you, my siste or brother ✌️ This is my first calculator with javascript, 
+I hope you like it 😄
 ````
 
 ````
